@@ -8,7 +8,6 @@
 
 - 🎓 Computer Science student at GIKI.
 - 💡 Interested in Software Engineering, Systems Programming and AI.
-- 
 - ☕ Working with Node Js, Python, Java, and C++ 
 - ⚙️ Exploring Backend Engineering and Distributed Systems.
 - 🤖 Interested in AI/ML and AI Agent architectures.
